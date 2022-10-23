@@ -29,7 +29,7 @@
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="16dp"
                 android:shadowColor="#FFFFFF"
-                android:text="Press for More info"
+                android:text="Press here for More info"
                 android:textColor="@color/white"
                 android:textColorHighlight="#FFFFFF"
                 android:textColorHint="#FFFFFF"
