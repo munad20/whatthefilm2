@@ -6,5 +6,5 @@ import retrofit2.http.GET
 
 interface ApiInterface {
     @GET("/3/movie/popular?api_key=73a66a60dd5d4398f55b9b7a12111288")
-    fun getMovieList(): Call<Response>
+    fun getListMovie(): Call<Response>
 }
